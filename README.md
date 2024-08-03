@@ -35,6 +35,6 @@ I am a newly graduated Junior Web Developer passionate about creating intuitive 
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/enrique-suarezzz)  
-[![Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://www.enriquesuarez.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/enrique-suarezzz)   [![Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://www.enriquesuarez.dev)
+
 
