@@ -2,8 +2,6 @@
 
 ### I'm Enrique Suarez!
 
-![Profile views](https://gpvc.arturio.dev/enriquesuarezzz)
-
 I am a newly graduated Junior Web Developer passionate about creating intuitive and responsive web applications. Welcome to my GitHub profile!
 
 ### 🚀 About Me
