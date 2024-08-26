@@ -2,7 +2,7 @@
 
 ### I'm Enrique Suarez!
 
-I am a newly graduated Junior Web Developer passionate about creating intuitive and responsive web applications. Welcome to my GitHub profile!
+I am a Junior Web Developer passionate about creating intuitive and responsive web applications. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
